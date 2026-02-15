@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="chap_03/chap_03.vcxproj" Id="7f1b9373-1051-472e-ae1e-7edb355de5cd" />
+  <Project Path="chap_04/chap_04.vcxproj" Id="ef35c074-b7de-49df-b2d9-b91756f0e633" />
+  <Project Path="chap_05/chap_05.vcxproj" Id="0dc526b8-c698-446e-8fbd-fdabaa6efdf0" />
+  <Project Path="chap_06/chap_06.vcxproj" Id="76632102-34a0-46aa-a78a-2a670f54ce08" />
+  <Project Path="chap_07/chap_07.vcxproj" Id="077bb0eb-af3d-4e59-8da8-71557dd28aaf" />
+  <Project Path="chap_08/chap_08.vcxproj" Id="4aa26fdb-2d32-458a-b7cc-3f90ad335e00" />
+  <Project Path="chap_09/chap_09.vcxproj" Id="1d8d418e-cb26-4d3b-8483-8eb3c392ff9e" />
+  <Project Path="Learn C++ by Example/Learn C++ by Example.vcxproj" Id="820393ea-437d-4cb6-8d3d-5f6079f95e7f" />
+</Solution>
