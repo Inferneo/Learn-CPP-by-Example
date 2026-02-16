@@ -2,7 +2,7 @@
 
 A collection of small, focused C++20/23 projects exploring modern standard library features, strong typing, generic programming, coroutines, `<chrono>`, `<ranges>`, and expressive design.
 
-This repo is not a monolithic application. It’s a sandbox of self-contained programs, each built to explore a specific idea deeply and cleanly.
+The projects are from Frances Buontempo's book "Learn C++ by Example" (Manning Publications, 2024).
 
 ## Philosophy
 
