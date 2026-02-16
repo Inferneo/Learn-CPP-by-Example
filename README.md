@@ -174,14 +174,3 @@ Each project is self-contained, typically with:
 * Implementation files (`.cpp`)
 * Supporting data files (where needed)
 
-There is no shared framework layer between projects; isolation is intentional.
-
-
-## Themes Across the Repo
-
-* Strong typing over primitive obsession
-* Generic design where it adds clarity
-* Avoiding raw pointers
-* Deterministic randomness control
-* Assertions for internal invariants
-* Clean terminal UX without external libraries
