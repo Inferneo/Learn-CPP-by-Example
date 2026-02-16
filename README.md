@@ -4,28 +4,6 @@ A collection of small, focused C++20/23 projects exploring modern standard libra
 
 The projects are from Frances Buontempo's book "Learn C++ by Example" (Manning Publications, 2024).
 
-## Philosophy
-
-The goal of this repository is to:
-
-* Write idiomatic modern C++.
-* Favor strong types and explicit ownership.
-* Separate generation, validation, and presentation.
-* Use the standard library aggressively instead of reinventing it.
-* Treat small programs as design exercises, not just “toy” code.
-
-Most projects lean heavily on:
-
-* `<ranges>`
-* `<format>`
-* `<chrono>`
-* `std::variant`
-* `std::optional`
-* `std::mt19937`
-* Concepts and constrained templates
-* Three-way comparison (`<=>`)
-* Coroutines (where appropriate)
-
 ## Projects Included
 
 ### 1. Pascal’s Triangle 
