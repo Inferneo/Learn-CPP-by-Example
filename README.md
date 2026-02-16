@@ -28,7 +28,7 @@ Most projects lean heavily on:
 
 ## Projects Included
 
-### 1. Pascal’s Triangle (C++20)
+### 1. Pascal’s Triangle 
 
 Generates, validates, and formats Pascal’s Triangle.
 
@@ -44,7 +44,7 @@ Concepts: ranges, views, CTAD, formatting, runtime assertions.
 
 ---
 
-### 2. Prime Guessing Game (C++20)
+### 2. Prime Guessing Game
 
 A 5-digit prime guessing game with layered feedback.
 
@@ -59,7 +59,7 @@ Concepts: `std::function`, lambdas, formatting, basic runtime validation.
 
 ---
 
-### 3. Chrono Countdown Demo (C++20/23)
+### 3. Chrono Countdown Demo 
 
 Exploration of modern calendrical and time-zone features.
 
@@ -75,7 +75,7 @@ Concepts: `<chrono>` calendars, duration arithmetic, constrained templates.
 
 ---
 
-### 4. Higher Lower With Jokers (C++20)
+### 4. Higher Lower With Jokers
 
 A 54-card higher/lower game using strong typing and variants.
 
@@ -91,7 +91,7 @@ Concepts: algebraic data types, three-way comparison, shuffle algorithms.
 
 ---
 
-### 5. Blob Race (C++20)
+### 5. Blob Race
 
 Terminal animation of polymorphic “blobs” racing vertically.
 
@@ -121,7 +121,7 @@ Concepts: lexicographic bounds, generic overlap selection.
 
 ---
 
-### 7. Mind Reader (C++20 Coroutines)
+### 7. Mind Reader
 
 A simple behavioral predictor for binary user input.
 
@@ -136,7 +136,7 @@ Concepts: coroutines, hash specialization, suspend/resume mechanics.
 
 ---
 
-### 8. Triangle Slot Machine (C++20)
+### 8. Triangle Slot Machine
 
 A console slot machine built on triangle numbers.
 
